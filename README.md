@@ -69,7 +69,7 @@ The **Smart Campus Parking and Traffic Management System** solves these challeng
 ## 3. Technology Stack
 
 * **Language**: Java (JDK 8 or higher)
-* **GUI Toolkit**:Java AWT (`JFrame`, `JPanel`, `JTable`, `CardLayout`, `GridBagLayout`, `BorderLayout`)
+* **GUI Toolkit**:Java AWT (`CardLayout`, `GridBagLayout`, `BorderLayout`)
 * **Database Connectivity**: Java Database Connectivity (JDBC) API
 * **Database**: MySQL Server (8.x / 5.7)
 * **JDBC Driver**: MySQL Connector/J (`mysql-connector-j-8.3.0.jar` included in `lib/`)
